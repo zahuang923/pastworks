@@ -1,2 +1,2 @@
 # pastworks
-assortment of select past projects
+An assortment of past projects from school, etc.
