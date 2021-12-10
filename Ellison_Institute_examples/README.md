@@ -1,1 +1,1 @@
-Non-code work snapshot presentations as an ML technician.
+Non-code work examples as ML technician.
