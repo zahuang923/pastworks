@@ -1,1 +1,1 @@
-Non-code work examples as ML technician.
+A couple work presentations that I delivered at team meetings. Non-code samples only.
