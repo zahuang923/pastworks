@@ -26,7 +26,7 @@ Codebook assignments covering applied data science and implementations of key ma
 
 ### [Computational Differential Geometry](https://github.com/zahuang923/pastworks/tree/main/Differential_Geometry_EE575)
 
-Survey course in Computational Differential Geometry that culminated in a final project report on differential geometry as applied to the design of freeform optics with a numerical method implementation for lens design in matlab.
+Differential Geometry course with final project on freeform optics with a matlab implementation of a lens design algorithm.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/HeatKernel_ImageBlurring.png" width=200 height=250/>
@@ -37,7 +37,6 @@ Survey course in Computational Differential Geometry that culminated in a final 
   Heat Kernel Blurring &nbsp;|&nbsp; Initial and obtained lens designs
 </p>
               
-
 ### [Ellison Institute](https://github.com/zahuang923/pastworks/tree/main/Ellison_Institute_examples)
 Some sample presentations.
 
