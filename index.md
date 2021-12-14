@@ -3,7 +3,7 @@
 This page contains descriptions and links to some past coursework and projects.
 
 ### [Integrative Analytics](https://github.com/zahuang923/pastworks/tree/main/IntegrativeAnalytics_ISE533)
-Capstone course in the Master of Analytics program involving four projects that span all stages of the analytics lifecycle (descriptive, predictive, and prescriptive analytics).
+Capstone course project in analytics covering the complete analytics lifecycle (descriptive, predictive, and prescriptive analytics). Coursework spanned topics such as: matrix completion methods, web scraping, subgradient optimization, stochastic gradient descent, benders decomposition, learning-enabled optimization, simulation, stochastic optimization, multivariate multiple regression, and recourse models. 
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/DiscreteGibbs_DemandSimulation_CorrelatedDemands.png" width=225 height=250/>
@@ -55,6 +55,7 @@ A miscellany of other projects and presentations such as:
 -Data Mining Project Presentation on Cancer Diagnosis.<br>
 -Branch & Bound Solver Implementation Final Project for Optimization Course.<br>
 -Class Activation Map for VGG16 architecture.<br>
+-Implementations of Block Coordinate Descent, Conjugate Gradient Descent, Gradient Descent.<br>
 -Decision & Value Theory Study on Heart-Attack Treatment Decision Options.<br>
 -Report on the Euler-Maruyama Numerical Method for Black-Scholes model.<br>
 
