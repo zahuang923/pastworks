@@ -55,7 +55,7 @@ A miscellany of other projects and presentations such as:
 -Data Mining Project Presentation on Cancer Diagnosis.<br>
 -Branch & Bound Solver Implementation Final Project for Optimization Course.<br>
 -Class Activation Maps from VGG16 architecture implementation for research concept.<br>
--Block Coordinate Descent, Conjugate Gradient Descent, Gradient Descent Implementations.<br>
+-Block Coordinate, Conjugate Gradient and Gradient Descent Implementations.<br>
 -Decision & Value Theory study on Heart-Attack Treatment Options.<br>
 -Report on the Euler-Maruyama Numerical Method for Black-Scholes model.<br>
 
