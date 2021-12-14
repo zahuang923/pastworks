@@ -6,8 +6,8 @@ This page contains descriptions and links to some past coursework and projects.
 Capstone course in the Master of Analytics program involving four projects that span all stages of the analytics lifecycle (descriptive, predictive, and prescriptive analytics).
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/DiscreteGibbs_DemandSimulation_CorrelatedDemands.png" width=200 height=250/>
-<img src="https://github.com/zahuang923/pastworks/blob/main/Pictures/ClusteredRegression4LEO_p2.png" width=200 height=250/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/DiscreteGibbs_DemandSimulation_CorrelatedDemands.png" width=225 height=250/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/ClusteredRegression4LEO_p2.png" width=225 height=250/>
 </p>
 <p align="center">
   Discretized Gibbs for Correlated Demand Simulation &nbsp;|&nbsp; Clustered Regression for Learning-Enabled Optimization
@@ -17,8 +17,8 @@ Capstone course in the Master of Analytics program involving four projects that 
 Codebook assignments covering applied data science and implementations of key machine learning algorithms. Topics covered include regression models, gradient boosing, dimensionality reduction, neural nets, support vector machines, decision trees, and random forests, clustering methods, cross-validation, hidden markov models, pipelines and ensemble methods.
 
 <p align="center">
-<img src="https://github.com/zahuang923/pastworks/blob/main/Pictures/GMMclustering.png" width=200 height=250/>
-<img src="https://github.com/zahuang923/pastworks/blob/main/Pictures/KernelSVM.png" width=200 height=250/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/GMMclustering.png" width=225 height=250/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/KernelSVM.png" width=225 height=250/>
 </p>
 <p align="center">
   Expectation-Maximization Clustering &nbsp;|&nbsp; Kernel Support Vector Machine
@@ -29,9 +29,9 @@ Codebook assignments covering applied data science and implementations of key ma
 Survey course in Computational Differential Geometry that culminated in a final project report on differential geometry as applied to the design of freeform optics with a numerical method implementation for lens design in matlab.
 
 <p align="center">
-<img src="https://github.com/zahuang923/pastworks/blob/main/Pictures/HeatKernel_ImageBlurring.png" width=200 height=250/>
-<img src="https://github.com/zahuang923/pastworks/blob/main/Differential_Geometry_EE575/InitialLensGaussian.png" width=200 height=250/>
-<img src="https://github.com/zahuang923/pastworks/blob/main/Differential_Geometry_EE575/ObtainedLens.png" width=200 height=250/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/HeatKernel_ImageBlurring.png" width=200 height=250/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Differential_Geometry_EE575/InitialLensGaussian.png" width=200 height=250/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Differential_Geometry_EE575/ObtainedLens.png" width=200 height=250/>
 </p>
 <p align="center">
   Heat Kernel Blurring &nbsp;|&nbsp; Initial and obtained lens designs
@@ -42,9 +42,9 @@ Survey course in Computational Differential Geometry that culminated in a final 
 Some sample presentations.
 
 <p align="center">
-<img src="https://github.com/zahuang923/pastworks/blob/main/Pictures/EI1.png" width=200 height=250/>
-<img src="https://github.com/zahuang923/pastworks/blob/main/Pictures/EI2.png" width=200 height=250/>
-<img src="https://github.com/zahuang923/pastworks/blob/main/Pictures/EI3.png" width=200 height=250/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/EI1.png" width=225 height=250/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/EI2.png" width=225 height=250/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/EI3.png" width=225 height=250/>
 </p>
 <p align="center">
  model refinement w/ explainable AI  &nbsp;|&nbsp; segmentation analytics update &nbsp;|&nbsp; U-net attention experiment 
@@ -60,30 +60,28 @@ A miscellany of other projects and presentations such as:
 -Report on the Euler-Maruyama Numerical Method for Black-Scholes model.<br>
 
 <p align="center">
-<img src="https://github.com/zahuang923/pastworks/blob/main/Pictures/ISE535_3DClustering.png" width=200 height=250/>
-<img src="https://github.com/zahuang923/pastworks/blob/main/Pictures/ISE535_DecitionTree.png" width=200 height=250/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/ISE535_3DClustering.png" width=225 height=250/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/ISE535_DecitionTree.png" width=225 height=250/>
 </p>
 <p align="center">
   3D Clustering on Cancer Features with Decision Tree.
 </p>
 
 <p align="center">
-<img src="https://github.com/zahuang923/pastworks/blob/main/Other_Past_Projects/CAM_ant.jpg" width=200 height=250/>
-<img src="https://github.com/zahuang923/pastworks/blob/main/Other_Past_Projects/CAM_bee.jpg" width=200 height=250/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Other_Past_Projects/CAM_ant.jpg" width=225 height=250/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Other_Past_Projects/CAM_bee.jpg" width=225 height=250/>
 </p>
 <p align="center">
   Saliency Maps obtained for group's VGG16 experiment.
 </p>
   
 <p align="center">
-<img src="https://github.com/zahuang923/pastworks/blob/main/Pictures/Amazon_shareprice.png" width=200 height=250/>
-<img src="https://github.com/zahuang923/pastworks/blob/main/Pictures/Black-scholes_AMZN_sim.png" width=200 height=250/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/Amazon_shareprice.png" width=225 height=250/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/Black-scholes_AMZN_sim.png" width=225 height=250/>
 </p>
 <p align="center">
   Black-Scholes Numerical Simulation of Amazon Share Price using Matlab  
 </p>
-
-
 
 ### [Data Structures](https://github.com/zahuang923/pastworks/tree/main/DataStructures_CS301)
 Assignment implementations for Data Structures course including: linked lists, AVL Trees, Stacks, Heaps, etc.
