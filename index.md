@@ -42,7 +42,7 @@ Survey course in Computational Differential Geometry that culminated in a final 
 Some sample presentations.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/EI1.png" width=250 height=250/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/EI1.png" width=200 height=250/>
 <img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/EI2.png" width=200 height=250/>
 <img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/EI3.png" width=200 height=250/>
 </p>
