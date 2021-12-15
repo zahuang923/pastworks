@@ -30,9 +30,9 @@ Codebook assignments covering applied data science and implementations of key ma
 Differential Geometry course with final project on freeform optics with a matlab implementation of a lens design algorithm.
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/HeatKernel_ImageBlurring.png" width=230 height=200/>
-    <img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Differential_Geometry_EE575/InitialLensGaussian.png" width=230 height=200/>
-    <img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Differential_Geometry_EE575/ObtainedLens.png" width=230 height=200/>
+    <img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/HeatKernel_ImageBlurring.png" width=210 height=225/>
+    <img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Differential_Geometry_EE575/InitialLensGaussian.png" width=210 height=225/>
+    <img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Differential_Geometry_EE575/ObtainedLens.png" width=210 height=225/>
 </div>
 
 <!--<div class="container">
@@ -48,9 +48,9 @@ Differential Geometry course with final project on freeform optics with a matlab
 Some sample presentations.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/EI1.png" width=230 height=200/>
-  <img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/EI2.png" width=230 height=200/>
-  <img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/EI3.png" width=230 height=200/>
+  <img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/EI1.png" width=210 height=225/>
+  <img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/EI2.png" width=210 height=225/>
+  <img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/EI3.png" width=210 height=225/>
 </div>
 <p align="center">
  model refinement w/ explainable AI  &nbsp;|| &nbsp; segmentation analytics update &nbsp;||&nbsp; U-net att. experiment
