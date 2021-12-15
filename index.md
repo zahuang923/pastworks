@@ -62,7 +62,7 @@ Some sample presentations.
   <img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/EI3.png" width=200 height=200/>
 </div>-->
 <p align="center">
- model refinement w/ explainable AI  &nbsp;|| &nbsp; segmentation analytics update &nbsp;||&nbsp; U-net att. experiment
+ model refinement w/ explainable AI  &nbsp;|| &nbsp; segmentation analytics &nbsp;||&nbsp; U-net att. experiment
 </p>
 
 ### [Other Projects](https://github.com/zahuang923/pastworks/tree/main/Other_Past_Projects)
