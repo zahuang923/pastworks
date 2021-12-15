@@ -4,13 +4,13 @@ This page contains descriptions and links to some past coursework and projects. 
 [Linkedin](https://www.linkedin.com/in/zenas/)&nbsp;|&nbsp;[About.me](https://about.me/zenas.huang)
 
 ### [Integrative Analytics](https://github.com/zahuang923/pastworks/tree/main/IntegrativeAnalytics_ISE533)
-Capstone course project in analytics covering the complete analytics lifecycle (descriptive, predictive, and prescriptive analytics). Coursework spanned topics such as: matrix completion methods, web scraping, subgradient optimization, stochastic gradient descent, benders decomposition, learning-enabled optimization, simulation, stochastic optimization, multivariate multiple regression, and recourse models. 
+Capstone course project in analytics covering the complete analytics lifecycle (descriptive, predictive, and prescriptive analytics). Coursework spanned topics such as: matrix completion methods, web scraping, subgradient optimization, stochastic gradient descent, benders decomposition, learning-enabled optimization, simulation, stochastic programming, multivariate multiple regression, and recourse models. 
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/DiscreteGibbs_DemandSimulation_CorrelatedDemands.png" float="left" width=300 height=275/>
 <img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/ClusteredRegression4LEO_p2.png" float="right" width=300 height=275/>
 </div>
-<p align="center">
+<p text-align="center">
   Discretized Gibbs for Correlated Demand Simulation &nbsp;|&nbsp; Clustered Regression for Learning-Enabled Optimization
 </p>
 
@@ -30,9 +30,9 @@ Codebook assignments covering applied data science and implementations of key ma
 Differential Geometry course with final project on freeform optics with a matlab implementation of a lens design algorithm.
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/HeatKernel_ImageBlurring.png" width=275 height=250/>
-<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Differential_Geometry_EE575/InitialLensGaussian.png" width=275 height=250/>
-<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Differential_Geometry_EE575/ObtainedLens.png" width=275 height=250/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/HeatKernel_ImageBlurring.png" width=250 height=225/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Differential_Geometry_EE575/InitialLensGaussian.png" width=225 height=275/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Differential_Geometry_EE575/ObtainedLens.png" width=250 height=225/>
 </div>
 <p align="center">
   Heat Kernel Blurring &nbsp;|&nbsp; Initial and obtained lens designs
@@ -42,9 +42,9 @@ Differential Geometry course with final project on freeform optics with a matlab
 Some sample presentations.
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/EI1.png" width=275 height=225/>
-<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/EI2.png" width=275 height=225/>
-<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/EI3.png" width=275 height=225/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/EI1.png" width=250 height=225/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/EI2.png" width=250 height=225/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/EI3.png" width=250 height=225/>
 </div>
 <p align="center">
  model refinement w/ explainable AI  &nbsp;|&nbsp; segmentation analytics update &nbsp;|&nbsp; U-net att. experiment
