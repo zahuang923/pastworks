@@ -1,7 +1,7 @@
 ## Welcome
 
 This page contains descriptions and links to some past coursework and projects. <br>
-[Linkedin](https://www.linkedin.com/in/zenas/)&nbsp;|&nbsp;[About.me](https://about.me/zenas.huang)
+[Linkedin](https://www.linkedin.com/in/zenas/) &nbsp;||&nbsp; [About.me](https://about.me/zenas.huang)
 
 ### [Integrative Analytics](https://github.com/zahuang923/pastworks/tree/main/IntegrativeAnalytics_ISE533)
 Capstone course project in analytics covering the complete analytics lifecycle (descriptive, predictive, and prescriptive analytics). Coursework spanned topics such as: matrix completion methods, web scraping, subgradient optimization, stochastic gradient descent, benders decomposition, learning-enabled optimization, simulation, stochastic programming, multivariate multiple regression, and recourse models. 
@@ -11,7 +11,7 @@ Capstone course project in analytics covering the complete analytics lifecycle (
 <img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/ClusteredRegression4LEO_p2.png" float="right" width=300 height=275/>
 </div>
 <p text-align="center">
-  Discretized Gibbs for Correlated Demand Simulation &nbsp;|&nbsp; Clustered Regression for Learning-Enabled Optimization
+  Discretized Gibbs for Correlated Demand Simulation &nbsp;|| &nbsp; Clustered Regression for Learning-Enabled Optimization
 </p>
 
 ### [Predictive Analytics](https://github.com/zahuang923/pastworks/tree/main/PredictiveAnalytics_ISE529) & [Machine Learning](https://github.com/zahuang923/pastworks/tree/main/ML4DataScience_INF552)<br>
@@ -22,44 +22,51 @@ Codebook assignments covering applied data science and implementations of key ma
 <img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/KernelSVM.png" float="right" width=300 height=275/>
 </div>
 <p align="center">
-  Expectation-Maximization Clustering &nbsp;|&nbsp; Kernel Support Vector Machine
+  Expectation-Maximization Clustering &nbsp;|| &nbsp; Kernel Support Vector Machine
 </p>
 
 ### [Computational Differential Geometry](https://github.com/zahuang923/pastworks/tree/main/Differential_Geometry_EE575)
 
 Differential Geometry course with final project on freeform optics with a matlab implementation of a lens design algorithm.
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/HeatKernel_ImageBlurring.png" width=250 height=225/>
-<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Differential_Geometry_EE575/InitialLensGaussian.png" width=225 height=275/>
-<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Differential_Geometry_EE575/ObtainedLens.png" width=250 height=225/>
+<div class="row">
+    <img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/HeatKernel_ImageBlurring.png" width=275 height=225/>
+    <img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Differential_Geometry_EE575/InitialLensGaussian.png" width=275 height=225/>
+    <img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Differential_Geometry_EE575/ObtainedLens.png" width=275 height=225/>
 </div>
+
+<!--<div class="container">
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/HeatKernel_ImageBlurring.png" width=275 height=225/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Differential_Geometry_EE575/InitialLensGaussian.png" width=275 height=225/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Differential_Geometry_EE575/ObtainedLens.png" width=275 height=225/>
+</div>-->
 <p align="center">
-  Heat Kernel Blurring &nbsp;|&nbsp; Initial and obtained lens designs
+  Heat Kernel Blurring &nbsp;|| &nbsp; Initial and obtained lens designs
 </p>
               
 ### [Ellison Institute](https://github.com/zahuang923/pastworks/tree/main/Ellison_Institute_examples)
 Some sample presentations.
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/EI1.png" width=250 height=225/>
-<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/EI2.png" width=250 height=225/>
-<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/EI3.png" width=250 height=225/>
+<div class="container">
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/EI1.png" width=275 height=225/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/EI2.png" width=275 height=225/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/EI3.png" width=275 height=225/>
 </div>
-<p align="center">
- model refinement w/ explainable AI  &nbsp;|&nbsp; segmentation analytics update &nbsp;|&nbsp; U-net att. experiment
+<p text-align="center">
+ model refinement w/ explainable AI  &nbsp;|| &nbsp; segmentation analytics update &nbsp;||&nbsp; U-net att. experiment
 </p>
 
 ### [Other Projects](https://github.com/zahuang923/pastworks/tree/main/Other_Past_Projects)
 A miscellany of other projects and presentations such as:
 <br>
--Data Mining Project Presentation on Cancer Diagnosis.<br>
--Branch & Bound Solver Implementation Final Project for Optimization Course.<br>
--Class Activation Maps from VGG16 architecture implementation for research concept.<br>
--Block Coordinate, Conjugate Gradient and Gradient Descent Implementations.<br>
--Decision & Value Theory study on Heart-Attack Treatment Options.<br>
--Euler-Maruyama Numerical Method for Black-Scholes Share Price Simulation.<br>
-
+<ul>
+  <li>Data Mining Project for Cancer Diagnosis.</li>
+  <li>Branch & Bound Solver Implementation for Integer Programming.</li>
+  <li>Class Activation Maps for VGG16 architecture implementation for proof-of-concept work.</li>
+  <li>Block Coordinate, Conjugate Gradient and Gradient Descent Implementations.</li>
+  <li>Decision & Value Theory study on Heart-Attack Treatment Options.</li>
+  <li>Euler-Maruyama Numerical Method for Black-Scholes Share Price Simulation.</li>
+</ul>
 <div align="center">
 <img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/ISE535_3DClustering.png" width=300 height=275/>
 <img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/ISE535_DecitionTree.png" width=300 height=275/>
