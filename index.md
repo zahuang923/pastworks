@@ -6,10 +6,10 @@ This page contains descriptions and links to some past coursework and projects. 
 ### [Integrative Analytics](https://github.com/zahuang923/pastworks/tree/main/IntegrativeAnalytics_ISE533)
 Capstone course project in analytics covering the complete analytics lifecycle (descriptive, predictive, and prescriptive analytics). Coursework spanned topics such as: matrix completion methods, web scraping, subgradient optimization, stochastic gradient descent, benders decomposition, learning-enabled optimization, simulation, stochastic optimization, multivariate multiple regression, and recourse models. 
 
-<p align="center">
+<div align="center">
 <img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/DiscreteGibbs_DemandSimulation_CorrelatedDemands.png" float="left" width=300 height=275/>
 <img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/ClusteredRegression4LEO_p2.png" float="right" width=300 height=275/>
-</p>
+</div>
 <p align="center">
   Discretized Gibbs for Correlated Demand Simulation &nbsp;|&nbsp; Clustered Regression for Learning-Enabled Optimization
 </p>
@@ -17,10 +17,10 @@ Capstone course project in analytics covering the complete analytics lifecycle (
 ### [Predictive Analytics](https://github.com/zahuang923/pastworks/tree/main/PredictiveAnalytics_ISE529) & [Machine Learning](https://github.com/zahuang923/pastworks/tree/main/ML4DataScience_INF552)<br>
 Codebook assignments covering applied data science and implementations of key machine learning algorithms. Topics covered include regression models, gradient boosing, dimensionality reduction, neural nets, support vector machines, decision trees, and random forests, clustering methods, cross-validation, hidden markov models, pipelines and ensemble methods.
 
-<p align="center">
+<div align="center">
 <img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/GMMclustering.png" float="left" width=300 height=275/>
 <img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/KernelSVM.png" float="right" width=300 height=275/>
-</p>
+</div>
 <p align="center">
   Expectation-Maximization Clustering &nbsp;|&nbsp; Kernel Support Vector Machine
 </p>
@@ -29,11 +29,11 @@ Codebook assignments covering applied data science and implementations of key ma
 
 Differential Geometry course with final project on freeform optics with a matlab implementation of a lens design algorithm.
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/HeatKernel_ImageBlurring.png" float="left" width=250 height=250/>
-<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Differential_Geometry_EE575/InitialLensGaussian.png" float="center" width=250 height=250/>
-<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Differential_Geometry_EE575/ObtainedLens.png" float="right" width=250 height=250/>
-</p>
+<div align="center">
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/HeatKernel_ImageBlurring.png" width=275 height=250/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Differential_Geometry_EE575/InitialLensGaussian.png" width=275 height=250/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Differential_Geometry_EE575/ObtainedLens.png" width=275 height=250/>
+</div>
 <p align="center">
   Heat Kernel Blurring &nbsp;|&nbsp; Initial and obtained lens designs
 </p>
@@ -41,11 +41,11 @@ Differential Geometry course with final project on freeform optics with a matlab
 ### [Ellison Institute](https://github.com/zahuang923/pastworks/tree/main/Ellison_Institute_examples)
 Some sample presentations.
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/EI1.png" float="left" width=250 height=250/>
-<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/EI2.png" float="center" width=250 height=250/>
-<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/EI3.png" float="right" width=250 height=250/>
-</p>
+<div align="center">
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/EI1.png" width=275 height=225/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/EI2.png" width=275 height=225/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/EI3.png" width=275 height=225/>
+</div>
 <p align="center">
  model refinement w/ explainable AI  &nbsp;|&nbsp; segmentation analytics update &nbsp;|&nbsp; U-net att. experiment
 </p>
@@ -60,26 +60,26 @@ A miscellany of other projects and presentations such as:
 -Decision & Value Theory study on Heart-Attack Treatment Options.<br>
 -Euler-Maruyama Numerical Method for Black-Scholes Share Price Simulation.<br>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/ISE535_3DClustering.png" float="left" width=250 height=250/>
-<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/ISE535_DecitionTree.png" float="right"width=250 height=250/>
-</p>
+<div align="center">
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/ISE535_3DClustering.png" width=300 height=275/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/ISE535_DecitionTree.png" width=300 height=275/>
+</div>
 <p align="center">
   3D Clustering on Cancer Features with Decision Tree.
 </p>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Other_Past_Projects/CAM_ant.jpg" float="left" width=250 height=250/>
-<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Other_Past_Projects/CAM_bee.jpg" float="right" width=250 height=250/>
-</p>
+<div align="center">
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Other_Past_Projects/CAM_ant.jpg" width=300 height=275/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Other_Past_Projects/CAM_bee.jpg" width=300 height=275/>
+</div>
 <p align="center">
   Saliency Maps obtained for group's VGG16 experiment.
 </p>
   
-<p align="center">
-<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/Amazon_shareprice.png" float="left" width=250 height=250/>
-<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/Black-scholes_AMZN_sim.png" float="right" width=250 height=250/>
-</p>
+<div align="center">
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/Amazon_shareprice.png" width=300 height=275/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/Black-scholes_AMZN_sim.png" width=300 height=275/>
+</div>
 <p align="center">
   Black-Scholes Numerical Simulation of Amazon Share Price using Matlab  
 </p>
