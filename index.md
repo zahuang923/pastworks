@@ -7,8 +7,8 @@ This page contains descriptions and links to some past coursework and projects. 
 Capstone course project in analytics covering the complete analytics lifecycle (descriptive, predictive, and prescriptive analytics). Coursework spanned topics such as: matrix completion methods, web scraping, subgradient optimization, stochastic gradient descent, benders decomposition, learning-enabled optimization, simulation, stochastic optimization, multivariate multiple regression, and recourse models. 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/DiscreteGibbs_DemandSimulation_CorrelatedDemands.png" width=225 height=250/>
-<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/ClusteredRegression4LEO_p2.png" width=225 height=250/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/DiscreteGibbs_DemandSimulation_CorrelatedDemands.png" float="left" width=300 height=275/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/ClusteredRegression4LEO_p2.png" float="right" width=300 height=275/>
 </p>
 <p align="center">
   Discretized Gibbs for Correlated Demand Simulation &nbsp;|&nbsp; Clustered Regression for Learning-Enabled Optimization
@@ -18,8 +18,8 @@ Capstone course project in analytics covering the complete analytics lifecycle (
 Codebook assignments covering applied data science and implementations of key machine learning algorithms. Topics covered include regression models, gradient boosing, dimensionality reduction, neural nets, support vector machines, decision trees, and random forests, clustering methods, cross-validation, hidden markov models, pipelines and ensemble methods.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/GMMclustering.png" width=225 height=250/>
-<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/KernelSVM.png" width=225 height=250/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/GMMclustering.png" float="left" width=300 height=275/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/KernelSVM.png" float="right" width=300 height=275/>
 </p>
 <p align="center">
   Expectation-Maximization Clustering &nbsp;|&nbsp; Kernel Support Vector Machine
@@ -30,9 +30,9 @@ Codebook assignments covering applied data science and implementations of key ma
 Differential Geometry course with final project on freeform optics with a matlab implementation of a lens design algorithm.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/HeatKernel_ImageBlurring.png" width=200 height=250/>
-<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Differential_Geometry_EE575/InitialLensGaussian.png" width=200 height=250/>
-<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Differential_Geometry_EE575/ObtainedLens.png" width=200 height=250/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/HeatKernel_ImageBlurring.png" align="left" width=300 height=250/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Differential_Geometry_EE575/InitialLensGaussian.png" align="center" width=300 height=250/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Differential_Geometry_EE575/ObtainedLens.png" align="right" width=300 height=250/>
 </p>
 <p align="center">
   Heat Kernel Blurring &nbsp;|&nbsp; Initial and obtained lens designs
@@ -42,9 +42,9 @@ Differential Geometry course with final project on freeform optics with a matlab
 Some sample presentations.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/EI1.png" width=200 height=250/>
-<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/EI2.png" width=200 height=250/>
-<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/EI3.png" width=200 height=250/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/EI1.png" align="left" width=300 height=275/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/EI2.png" align="center" width=300 height=275/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/EI3.png" align="right" width=300 height=275/>
 </p>
 <p align="center">
  model refinement w/ explainable AI  &nbsp;|&nbsp; segmentation analytics update &nbsp;|&nbsp; U-net att. experiment
@@ -52,13 +52,13 @@ Some sample presentations.
 
 ### [Other Projects](https://github.com/zahuang923/pastworks/tree/main/Other_Past_Projects)
 A miscellany of other projects and presentations such as:
-<br><br>
+<br>
 -Data Mining Project Presentation on Cancer Diagnosis.<br>
 -Branch & Bound Solver Implementation Final Project for Optimization Course.<br>
 -Class Activation Maps from VGG16 architecture implementation for research concept.<br>
 -Block Coordinate, Conjugate Gradient and Gradient Descent Implementations.<br>
 -Decision & Value Theory study on Heart-Attack Treatment Options.<br>
--Report on the Euler-Maruyama Numerical Method for Black-Scholes model.<br>
+-Euler-Maruyama Numerical Method for Black-Scholes Share Price Simulation.<br>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/ISE535_3DClustering.png" width=225 height=250/>
