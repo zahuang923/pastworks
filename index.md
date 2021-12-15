@@ -29,11 +29,13 @@ Codebook assignments covering applied data science and implementations of key ma
 
 Differential Geometry course with final project on freeform optics with a matlab implementation of a lens design algorithm.
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/HeatKernel_ImageBlurring.png" width=200 height=200/>
-    <img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Differential_Geometry_EE575/InitialLensGaussian.png" width=200 height=200/>
-    <img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Differential_Geometry_EE575/ObtainedLens.png" width=200 height=200/>
-</div>
+<table width="100%" border="0" align="center">
+  <tr>    
+  <td><img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/HeatKernel_ImageBlurring.png" width=300 height=250/></td>
+  <td><img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Differential_Geometry_EE575/InitialLensGaussian.png" width=300 height=250/></td>
+  <td><img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Differential_Geometry_EE575/ObtainedLens.png" width=300 height=250/></td>
+  </tr>
+</table>
 
 <!--<div class="container">
 <img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/HeatKernel_ImageBlurring.png" width=275 height=225/>
