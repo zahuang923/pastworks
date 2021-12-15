@@ -1,7 +1,7 @@
 ## Welcome
 
 This page contains descriptions and links to some past coursework and projects. <br>
-[Linkedin](www.linkedin.com/in/zenas)&nbsp;|&nbsp;[About.me](https://about.me/zenas.huang)
+[Linkedin](https://www.linkedin.com/in/zenas/)&nbsp;|&nbsp;[About.me](https://about.me/zenas.huang)
 
 ### [Integrative Analytics](https://github.com/zahuang923/pastworks/tree/main/IntegrativeAnalytics_ISE533)
 Capstone course project in analytics covering the complete analytics lifecycle (descriptive, predictive, and prescriptive analytics). Coursework spanned topics such as: matrix completion methods, web scraping, subgradient optimization, stochastic gradient descent, benders decomposition, learning-enabled optimization, simulation, stochastic optimization, multivariate multiple regression, and recourse models. 
