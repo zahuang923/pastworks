@@ -71,7 +71,7 @@ A miscellany of other projects and presentations such as:
 <ul>
   <li>Data Mining Project for Cancer Diagnosis.</li>
   <li>Branch & Bound Solver Implementation for Integer Programming.</li>
-  <li>Class Activation Maps for VGG16 architecture implementation for proof-of-concept work.</li>
+  <li>Class Activation Mappings for the VGG16 architecture.</li>
   <li>Block Coordinate, Conjugate Gradient and Gradient Descent Implementations.</li>
   <li>Decision & Value Theory study on Heart-Attack Treatment Options.</li>
   <li>Euler-Maruyama Numerical Method for Black-Scholes Share Price Simulation.</li>
@@ -89,7 +89,7 @@ A miscellany of other projects and presentations such as:
 <img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Other_Past_Projects/CAM_bee.jpg" width=300 height=275/>
 </div>
 <p align="center">
-  Saliency Maps obtained for group's VGG16 experiment.
+  Saliency Maps obtained for a VGG16 experiment.
 </p>
   
 <div align="center">
@@ -102,8 +102,6 @@ A miscellany of other projects and presentations such as:
 
 ### [Data Structures](https://github.com/zahuang923/pastworks/tree/main/DataStructures_CS301)
 Assignment implementations for Data Structures course including: arrays, linked lists, AVL Trees, Stacks, Heaps, Hashtable, etc.
-
-
 
 <!--You can use the [editor on GitHub](https://github.com/zahuang923/pastworks/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
