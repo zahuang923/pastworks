@@ -30,9 +30,9 @@ Codebook assignments covering applied data science and implementations of key ma
 Differential Geometry course with final project on freeform optics with a matlab implementation of a lens design algorithm.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/HeatKernel_ImageBlurring.png" align="left" width=250 height=250/>
-<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Differential_Geometry_EE575/InitialLensGaussian.png" align="center" width=250 height=250/>
-<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Differential_Geometry_EE575/ObtainedLens.png" align="right" width=250 height=250/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/HeatKernel_ImageBlurring.png" float="left" width=250 height=250/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Differential_Geometry_EE575/InitialLensGaussian.png" float="center" width=250 height=250/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Differential_Geometry_EE575/ObtainedLens.png" float="right" width=250 height=250/>
 </p>
 <p align="center">
   Heat Kernel Blurring &nbsp;|&nbsp; Initial and obtained lens designs
@@ -42,9 +42,9 @@ Differential Geometry course with final project on freeform optics with a matlab
 Some sample presentations.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/EI1.png" align="left" width=250 height=250/>
-<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/EI2.png" align="center" width=250 height=250/>
-<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/EI3.png" align="right" width=250 height=250/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/EI1.png" float="left" width=250 height=250/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/EI2.png" float="center" width=250 height=250/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/EI3.png" float="right" width=250 height=250/>
 </p>
 <p align="center">
  model refinement w/ explainable AI  &nbsp;|&nbsp; segmentation analytics update &nbsp;|&nbsp; U-net att. experiment
@@ -69,16 +69,16 @@ A miscellany of other projects and presentations such as:
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Other_Past_Projects/CAM_ant.jpg" width=250 height=250/>
-<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Other_Past_Projects/CAM_bee.jpg" width=250 height=250/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Other_Past_Projects/CAM_ant.jpg" float="left" width=250 height=250/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Other_Past_Projects/CAM_bee.jpg" float="right" width=250 height=250/>
 </p>
 <p align="center">
   Saliency Maps obtained for group's VGG16 experiment.
 </p>
   
 <p align="center">
-<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/Amazon_shareprice.png" width=250 height=250/>
-<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/Black-scholes_AMZN_sim.png" width=250 height=250/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/Amazon_shareprice.png" float="left" width=250 height=250/>
+<img src="https://raw.githubusercontent.com/zahuang923/pastworks/main/Pictures/Black-scholes_AMZN_sim.png" float="right" width=250 height=250/>
 </p>
 <p align="center">
   Black-Scholes Numerical Simulation of Amazon Share Price using Matlab  
